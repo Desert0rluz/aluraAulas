@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|c:\\users\\deser\\onedrive\\documentos\\gitmain\\aluraaulas\\aluraapiselinq\\consoleapielinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|c:\\users\\deser\\onedrive\\documentos\\gitmain\\aluraaulas\\aluraapiselinq\\consoleapielinq\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|solutionrelative:filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|c:\\users\\deser\\onedrive\\documentos\\gitmain\\aluraaulas\\aluraapiselinq\\consoleapielinq\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|solutionrelative:modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|c:\\users\\deser\\onedrive\\documentos\\gitmain\\aluraaulas\\aluraapiselinq\\consoleapielinq\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|solutionrelative:filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|c:\\users\\deser\\onedrive\\documentos\\gitmain\\aluraaulas\\aluraapiselinq\\consoleapielinq\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96774783-3E18-4F87-8F6F-EDD5EB7A79B0}|ConsoleAPIeLINQ.csproj|solutionrelative:modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Modelos\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "Modelos\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Modelos\\MusicasPreferidas.cs",
+              "RelativeToolTip": "Modelos\\MusicasPreferidas.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:49:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Filtros\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "Filtros\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Filtros\\LinqOrder.cs",
+              "RelativeToolTip": "Filtros\\LinqOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:31:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Filtros\\LinqFilter.cs",
+              "RelativeToolTip": "Filtros\\LinqFilter.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:06:47.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Modelos\\Musica.cs",
+              "RelativeToolTip": "Modelos\\Musica.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:45:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\deser\\OneDrive\\Documentos\\gitMain\\aluraAulas\\aluraAPIseLINQ\\ConsoleAPIeLINQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:25:46.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\bin\Debug\net8.0\ConsoleAPIeLINQ.exe
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\bin\Debug\net8.0\ConsoleAPIeLINQ.deps.json
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\bin\Debug\net8.0\ConsoleAPIeLINQ.runtimeconfig.json
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\bin\Debug\net8.0\ConsoleAPIeLINQ.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\bin\Debug\net8.0\ConsoleAPIeLINQ.pdb
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.AssemblyInfoInputs.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.AssemblyInfo.cs
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.sourcelink.json
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\refint\ConsoleAPIeLINQ.dll
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.pdb
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ConsoleAPIeLINQ.genruntimeconfig.cache
+C:\Users\deser\OneDrive\Documentos\gitMain\aluraAulas\aluraAPIseLINQ\ConsoleAPIeLINQ\obj\Debug\net8.0\ref\ConsoleAPIeLINQ.dll

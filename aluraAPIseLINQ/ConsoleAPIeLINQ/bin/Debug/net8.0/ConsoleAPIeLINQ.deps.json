@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAPIeLINQ/1.0.0": {
+        "runtime": {
+          "ConsoleAPIeLINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAPIeLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
